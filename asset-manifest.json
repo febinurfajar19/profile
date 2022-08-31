@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.c59416ff.css",
-    "main.js": "/profile/static/js/main.1ed3c1e6.js",
+    "main.css": "/profile/static/css/main.a8d087fc.css",
+    "main.js": "/profile/static/js/main.cd73660f.js",
     "static/js/787.f2a0fa2f.chunk.js": "/profile/static/js/787.f2a0fa2f.chunk.js",
     "static/media/photo-profile.JPG": "/profile/static/media/photo-profile.3d24f97c86a54ebc2adb.JPG",
     "static/media/color-sharp.png": "/profile/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/color-sharp2.png": "/profile/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/banner-bg.png": "/profile/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/gradienta-G084bO4wGDA-unsplash.jpg": "/profile/static/media/gradienta-G084bO4wGDA-unsplash.05955784736d4d2f5ff0.jpg",
+    "static/media/digital signal processing.jpg": "/profile/static/media/digital signal processing.c8c5a08a13ade1fff354.jpg",
+    "static/media/Ruang_Guru_logo.png": "/profile/static/media/Ruang_Guru_logo.25925a96e4336095bb79.png",
     "static/media/Logo_Telkom_University_potrait.png": "/profile/static/media/Logo_Telkom_University_potrait.a050644d62e6ba53fdc9.png",
+    "static/media/Poppins-Regular.ttf": "/profile/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Matlab_Logo.png": "/profile/static/media/Matlab_Logo.5821b44d86984c741c1b.png",
-    "static/media/project-img1.png": "/profile/static/media/project-img1.d593db3f12901bc685c2.png",
-    "static/media/project-img2.png": "/profile/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/profile/static/media/project-img3.675b30d2f975a1bc1d09.png",
-    "static/media/helvetica-neu.ttf": "/profile/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/telkomakses.png": "/profile/static/media/telkomakses.0a43043093e710d8910e.png",
+    "static/media/expert course logo.jpg": "/profile/static/media/expert course logo.776453bde20a5de361c7.jpg",
+    "static/media/logo telkom indonesia.jpg": "/profile/static/media/logo telkom indonesia.9e0f038021e501dafdca.jpg",
     "static/media/revicons.eot": "/profile/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/profile/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/profile/static/media/revicons.e8746a624ed098489406.woff",
@@ -25,12 +26,12 @@
     "static/media/html-1.svg": "/profile/static/media/html-1.177e6bedc3d17633f5175efdeea5d0a3.svg",
     "static/media/javascript_logo.svg": "/profile/static/media/javascript_logo.6d3a7de9157b3ec4039eb9e723666472.svg",
     "static/media/linkedin_logo.svg": "/profile/static/media/linkedin_logo.1633a96222d704c5ee5222386dd242bd.svg",
-    "main.c59416ff.css.map": "/profile/static/css/main.c59416ff.css.map",
-    "main.1ed3c1e6.js.map": "/profile/static/js/main.1ed3c1e6.js.map",
+    "main.a8d087fc.css.map": "/profile/static/css/main.a8d087fc.css.map",
+    "main.cd73660f.js.map": "/profile/static/js/main.cd73660f.js.map",
     "787.f2a0fa2f.chunk.js.map": "/profile/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c59416ff.css",
-    "static/js/main.1ed3c1e6.js"
+    "static/css/main.a8d087fc.css",
+    "static/js/main.cd73660f.js"
   ]
 }
