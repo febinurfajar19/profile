@@ -1,43 +1,45 @@
-import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
-import colorSharp2 from "../assets/img/color-sharp2.png";
+import projImg1 from "../assets/img/Ruang_Guru_logo.png";
+import projImg2 from "../assets/img/telkomakses.png";
+import projImg3 from "../assets/img/logo telkom indonesia.jpg";
+import projImg4 from "../assets/img/expert course logo.jpg";
+import projImg5 from "../assets/img/digital signal processing.jpg";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Experiences = () => {
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Front End Engineer",
+      description: "Ruangguru Bootcamp | Online | July 2022 - August 2022",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Area Site Operation Admin",
+      description: "PT Telkom Akses | Bandung | July 2021 - August 2021",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Network, Civil, Mechanical & Electronical Intern",
+      description: "PT Telkom Indonesia | Sukabumi | July 2020 - August 2020",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Tutor",
+      description: "Expert Course | Bandung | January 2020 - March 2020",
+      imgUrl: projImg4,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "Lab Work Assistant",
+      description:
+        "Digital Signal Processing Lab. | Telkom University | September 2021 - June 2022",
+      imgUrl: projImg5,
     },
   ];
 
   return (
-    <section className="project" id="experiences">
+    <section className="experience" id="experiences">
       <Container>
         <Row>
           <Col size={15}>
@@ -48,8 +50,9 @@ export const Experiences = () => {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <h2>Experiences</h2>
+                  <h3>Experiences</h3>
                   <br />
+
                   <Row>
                     {projects.map((project, index) => {
                       return <ProjectCard key={index} {...project} />;
@@ -61,7 +64,6 @@ export const Experiences = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2}></img>
     </section>
   );
 };
