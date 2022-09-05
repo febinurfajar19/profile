@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.a8d087fc.css",
-    "main.js": "/profile/static/js/main.cd73660f.js",
+    "main.css": "/profile/static/css/main.8d3385f8.css",
+    "main.js": "/profile/static/js/main.0a6a5a1c.js",
     "static/js/787.f2a0fa2f.chunk.js": "/profile/static/js/787.f2a0fa2f.chunk.js",
     "static/media/photo-profile.JPG": "/profile/static/media/photo-profile.3d24f97c86a54ebc2adb.JPG",
     "static/media/color-sharp.png": "/profile/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/gradienta-G084bO4wGDA-unsplash.jpg": "/profile/static/media/gradienta-G084bO4wGDA-unsplash.05955784736d4d2f5ff0.jpg",
     "static/media/digital signal processing.jpg": "/profile/static/media/digital signal processing.c8c5a08a13ade1fff354.jpg",
     "static/media/Ruang_Guru_logo.png": "/profile/static/media/Ruang_Guru_logo.25925a96e4336095bb79.png",
     "static/media/Logo_Telkom_University_potrait.png": "/profile/static/media/Logo_Telkom_University_potrait.a050644d62e6ba53fdc9.png",
@@ -26,12 +25,12 @@
     "static/media/html-1.svg": "/profile/static/media/html-1.177e6bedc3d17633f5175efdeea5d0a3.svg",
     "static/media/javascript_logo.svg": "/profile/static/media/javascript_logo.6d3a7de9157b3ec4039eb9e723666472.svg",
     "static/media/linkedin_logo.svg": "/profile/static/media/linkedin_logo.1633a96222d704c5ee5222386dd242bd.svg",
-    "main.a8d087fc.css.map": "/profile/static/css/main.a8d087fc.css.map",
-    "main.cd73660f.js.map": "/profile/static/js/main.cd73660f.js.map",
+    "main.8d3385f8.css.map": "/profile/static/css/main.8d3385f8.css.map",
+    "main.0a6a5a1c.js.map": "/profile/static/js/main.0a6a5a1c.js.map",
     "787.f2a0fa2f.chunk.js.map": "/profile/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d087fc.css",
-    "static/js/main.cd73660f.js"
+    "static/css/main.8d3385f8.css",
+    "static/js/main.0a6a5a1c.js"
   ]
 }
