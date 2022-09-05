@@ -9,7 +9,7 @@ export const Footer = () => {
           <Col
             size={12}
             sm={6}
-            style={{ fontWeight: "700", fontSize: "25px", color: "#ffffff" }}
+            style={{ fontWeight: "700", fontSize: "25px", color: "#232121" }}
           >
             FEBI NURFAJAR
           </Col>

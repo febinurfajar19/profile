@@ -34,7 +34,7 @@ export const Education = () => {
                     <b>Major</b>: Telecommunication Engineering (2018-2022)
                   </p>
                   <p>
-                    <b>GPA</b>: 3,85/4,00
+                    <b>GPA</b>: 3,85/4,00 (Cumlaude)
                   </p>
                   <p>
                     <b>Final Project</b>: "Glaucoma Detection Based on Retina
@@ -43,12 +43,12 @@ export const Education = () => {
                   </p>
                   <p>
                     <b>Award & Achievements</b>:<br />
-                    1. Scholarship Awardee of Google IT Support Certificate
-                    (2022) <br />
-                    2. SINTA 2 Journal publication (2022)
+                    1. Google IT Support Certificate scholarship awardee (2022){" "}
                     <br />
-                    3. Scholarship Awardee of One Pipe Education System (OPES)
-                    Telkom University (2018-2022)
+                    2. SINTA 2 journal publication (2022)
+                    <br />
+                    3. Telkom University One Pipe Education System (OPES)
+                    scholarship awardee (2018-2022)
                   </p>
                 </div>
               )}

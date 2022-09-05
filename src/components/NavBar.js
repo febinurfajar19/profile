@@ -32,7 +32,7 @@ export const NavBar = () => {
         <Container>
           <Navbar.Brand
             href="/"
-            style={{ fontWeight: "700", fontSize: "25px", color: "#ffffff" }}
+            style={{ fontWeight: "700", fontSize: "25px", color: "#232121" }}
           >
             FEBI NURFAJAR
           </Navbar.Brand>

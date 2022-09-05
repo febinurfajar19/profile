@@ -32,7 +32,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #121212 !important;
+  background-color: #fefefe !important;
   color: #fff !important;
   font-family: "Poppins", sans-serif !important;
   /* letter-spacing: -0.5px; */
@@ -105,17 +105,17 @@ nav.navbar {
 }
 nav.navbar.scrolled {
   padding: 5px 0;
-  background-color: #1c1424;
+  background-color: #f4eff9;
 }
 nav.navbar a.navbar-brand {
   width: 9%;
 }
 nav.navbar .navbar-nav .nav-link.navbar-link {
   font-weight: 400;
-  color: #fff !important;
-  letter-spacing: 0px;
+  color: rgb(34, 31, 31) !important;
+  letter-spacing: -0.5px;
   padding: 0 25px;
-  font-size: 18px;
+  font-size: 16px;
   opacity: 0.75;
 }
 nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
@@ -246,7 +246,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 200px 0 60px 0;
   /* background-image: url("./assets/img/gradienta-G084bO4wGDA-unsplash.jpg"); */
 
-  background-color: #212135;
+  background-color: #fbfbff;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -274,13 +274,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 20px;
   display: block;
   letter-spacing: -1px;
+  color: #332a2a;
 }
 .banner p {
-  color: #b8b8b8;
+  color: rgb(34, 31, 31) !important;
+  font-weight: 400;
   font-size: 15.5px;
   line-height: 1.3em;
-  width: 96%;
-  /* letter-spacing: -0.5px; */
+  width: 85%;
+  letter-spacing: -0.3px;
 }
 .banner button {
   color: #fff;
@@ -304,7 +306,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   /* animation: updown 3s linear infinite; */
   border-radius: 50%;
   width: 270px;
-  margin-top: 60px;
+  margin-top: 85px;
   margin-left: 90px;
 }
 @keyframes updown {
@@ -326,7 +328,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .education {
   /* background-image: url("./assets/img/gradienta-G084bO4wGDA-unsplash.jpg"); */
   /* background: linear-gradient(90.21deg, #402c4c -23.91%, #0e0e45 111.58%); */
-  background-color: #212135;
+  background-color: #fbfbff;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -338,6 +340,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-left: 100px;
 }
 .education h2 {
+  color: #232121;
   font-size: 40px;
   font-weight: 700;
   padding-top: 10px;
@@ -346,7 +349,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: -0.5px;
 }
 .education p {
-  font-size: 18px;
+  color: #232121;
+  font-size: 16px;
   font-weight: 400;
   letter-spacing: -0.5px;
   /* margin-bottom: 350px; */
@@ -357,7 +361,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .experience {
   padding: 50px 0;
   position: relative;
-  background: #212135;
+  background: #fbfbff;
   /* background-image: url("./assets/img/gradienta-G084bO4wGDA-unsplash.jpg"); */
   background-position: top center;
   background-size: cover;
@@ -367,10 +371,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 40px;
   font-weight: 700;
   text-align: center;
+  color: #232121;
 }
 .experience p {
   color: #b8b8b8;
-  font-size: 18px;
+  font-size: 13px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
   margin: 14px auto 30px auto;
@@ -392,8 +397,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #562f46 -5.91%, #4a2fbd 111.58%);
-  opacity: 0.95;
+  background: #6f2a2a;
+  opacity: 1;
   position: absolute;
   width: 100%;
   height: 0;
@@ -405,29 +410,40 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-txtx {
   position: absolute;
   text-align: left;
-  top: 65%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 0px;
+  left: 15px;
   transition: 0.5s ease-in-out;
   opacity: 0;
   width: 90%;
 }
+
 .proj-imgbx:hover .proj-txtx {
-  top: 20%;
+  top: 100;
   opacity: 1;
 }
 .proj-txtx h4 {
   padding-top: 15px;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   /* letter-spacing: 0.8px; */
 }
 .proj-txtx span {
   /* font-style: italic; */
   font-weight: 400;
-  font-size: 13px;
-  padding-top: 0;
+  font-size: 11px;
+  margin-top: 0px;
   /* letter-spacing: 0.8px; */
+}
+
+.proj-txtx p {
+  /* font-style: italic; */
+  font-weight: 400;
+  font-size: 11px;
+  margin-left: 0;
+  text-align: left;
+  width: 100%;
+  letter-spacing: 0.3px;
+  color: #fbfbff;
 }
 .background-image-right {
   top: 20%;
@@ -442,11 +458,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill {
   padding: 50px 0 30px 0;
   position: relative;
-  background-color: #212135;
+  background: #fbfbff;
 }
 .skill-bx {
-  background: #212135;
-  background-image: url("./assets/img/gradienta-G084bO4wGDA-unsplash.jpg");
+  background: #ffffff;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -459,10 +474,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill h2 {
   font-size: 45px;
   font-weight: 700;
+  color: #232121;
   /* letter-spacing: -0.5px; */
 }
 .skill p {
-  color: #b8b8b8;
+  color: #232121;
   font-size: 18px;
   /* letter-spacing: -0.5px; */
   line-height: 1.5em;
@@ -472,6 +488,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 80%;
   margin: 0 auto;
   position: relative;
+  color: #232121;
 }
 .skill-slider .item img {
   width: 30%;
@@ -482,7 +499,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer {
   padding: 0 0 50px 0;
   margin-bottom: 0;
-  background-color: #212135;
+  background: #fbfbff;
   background-position: center center;
 }
 

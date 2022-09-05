@@ -69,9 +69,15 @@ export const Skills = () => {
                   <h5>React.JS</h5>
                 </div>
               </Carousel>
-              <div style={{ paddingTop: "40px", paddingBottom: "0" }}>
+              <div
+                style={{
+                  paddingTop: "40px",
+                  paddingBottom: "0",
+                  color: "#232121",
+                }}
+              >
                 <h4>Others:</h4>
-                <div style={{ fontSize: "18px" }}>
+                <div style={{ fontSize: "18px", color: "#232121" }}>
                   Languages: Bahasa Indonesia & English (score EPrT: 537)
                 </div>
               </div>

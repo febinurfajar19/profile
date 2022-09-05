@@ -14,16 +14,26 @@ export const Experiences = () => {
       title: "Front End Engineer",
       description: "Ruangguru Bootcamp | Online | July 2022 - August 2022",
       imgUrl: projImg1,
+      jobdesk1:
+        "Completed all project-based learning in Software Engineering, Front-end Programming, Front-end Framework, and API subjects.",
+      Jobdesk2:
+        "Learned HTML, CSS, Javascript, React.Js framework, and React Library (React-Boostrap & Chakra UI)",
+      Jobdesk3:
+        "Learned all soft skills courses, such as Project Management Tech, Communication Skills, and Analytical Thinking to assist the software development process.",
+      Jobdesk4:
+        "And last, Build a responsive website called “V-Labs” with a concept to facilitate virtual IT practicum using HTML, CSS, JavaScript, React.Js, and React-Boostrap under Project Management: Jira.",
     },
     {
       title: "Area Site Operation Admin",
       description: "PT Telkom Akses | Bandung | July 2021 - August 2021",
       imgUrl: projImg2,
+      jobdesk: "BBBB",
     },
     {
       title: "Network, Civil, Mechanical & Electronical Intern",
       description: "PT Telkom Indonesia | Sukabumi | July 2020 - August 2020",
       imgUrl: projImg3,
+      jobdesk: "AAAA",
     },
     {
       title: "Tutor",
@@ -35,6 +45,7 @@ export const Experiences = () => {
       description:
         "Digital Signal Processing Lab. | Telkom University | September 2021 - June 2022",
       imgUrl: projImg5,
+      jobdesk: "BBBB",
     },
   ];
 
