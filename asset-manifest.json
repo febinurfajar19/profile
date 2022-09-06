@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.8d3385f8.css",
-    "main.js": "/profile/static/js/main.0a6a5a1c.js",
+    "main.css": "/profile/static/css/main.057ae733.css",
+    "main.js": "/profile/static/js/main.4c2e7526.js",
     "static/js/787.f2a0fa2f.chunk.js": "/profile/static/js/787.f2a0fa2f.chunk.js",
-    "static/media/photo-profile.JPG": "/profile/static/media/photo-profile.3d24f97c86a54ebc2adb.JPG",
     "static/media/color-sharp.png": "/profile/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Inter-Regular.ttf": "/profile/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
     "static/media/digital signal processing.jpg": "/profile/static/media/digital signal processing.c8c5a08a13ade1fff354.jpg",
-    "static/media/Ruang_Guru_logo.png": "/profile/static/media/Ruang_Guru_logo.25925a96e4336095bb79.png",
+    "static/media/IMG-0855.JPG": "/profile/static/media/IMG-0855.0f49d9b9a94db1d9f1ea.JPG",
     "static/media/Logo_Telkom_University_potrait.png": "/profile/static/media/Logo_Telkom_University_potrait.a050644d62e6ba53fdc9.png",
-    "static/media/Poppins-Regular.ttf": "/profile/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Matlab_Logo.png": "/profile/static/media/Matlab_Logo.5821b44d86984c741c1b.png",
     "static/media/telkomakses.png": "/profile/static/media/telkomakses.0a43043093e710d8910e.png",
     "static/media/expert course logo.jpg": "/profile/static/media/expert course logo.776453bde20a5de361c7.jpg",
+    "static/media/ruang-guru.jpg": "/profile/static/media/ruang-guru.770eccda4838fcec02cc.jpg",
     "static/media/logo telkom indonesia.jpg": "/profile/static/media/logo telkom indonesia.9e0f038021e501dafdca.jpg",
     "static/media/revicons.eot": "/profile/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/profile/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -25,12 +25,12 @@
     "static/media/html-1.svg": "/profile/static/media/html-1.177e6bedc3d17633f5175efdeea5d0a3.svg",
     "static/media/javascript_logo.svg": "/profile/static/media/javascript_logo.6d3a7de9157b3ec4039eb9e723666472.svg",
     "static/media/linkedin_logo.svg": "/profile/static/media/linkedin_logo.1633a96222d704c5ee5222386dd242bd.svg",
-    "main.8d3385f8.css.map": "/profile/static/css/main.8d3385f8.css.map",
-    "main.0a6a5a1c.js.map": "/profile/static/js/main.0a6a5a1c.js.map",
+    "main.057ae733.css.map": "/profile/static/css/main.057ae733.css.map",
+    "main.4c2e7526.js.map": "/profile/static/js/main.4c2e7526.js.map",
     "787.f2a0fa2f.chunk.js.map": "/profile/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d3385f8.css",
-    "static/js/main.0a6a5a1c.js"
+    "static/css/main.057ae733.css",
+    "static/js/main.4c2e7526.js"
   ]
 }
