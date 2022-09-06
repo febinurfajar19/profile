@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/Ruang_Guru_logo.png";
+import projImg1 from "../assets/img/ruang-guru.jpg";
 import projImg2 from "../assets/img/telkomakses.png";
 import projImg3 from "../assets/img/logo telkom indonesia.jpg";
 import projImg4 from "../assets/img/expert course logo.jpg";

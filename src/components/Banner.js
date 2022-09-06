@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../assets/img/photo-profile.JPG";
+import headerImg from "../assets/img/IMG-0855.JPG";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 

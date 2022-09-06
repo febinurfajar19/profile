@@ -73,11 +73,17 @@ export const Skills = () => {
                 style={{
                   paddingTop: "40px",
                   paddingBottom: "0",
-                  color: "#232121",
+                  color: "rgb(34, 31, 31) !important",
                 }}
               >
                 <h4>Others:</h4>
-                <div style={{ fontSize: "18px", color: "#232121" }}>
+                <div
+                  style={{
+                    fontSize: "16px",
+                    color: "rgb(34, 31, 31) !important",
+                    opacity: "0.75",
+                  }}
+                >
                   Languages: Bahasa Indonesia & English (score EPrT: 537)
                 </div>
               </div>
